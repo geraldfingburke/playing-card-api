@@ -1,0 +1,314 @@
+[
+    {
+       "name":"ace of hearts",
+       "value":"ace",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/ace-of-hearts"
+    },
+    {
+       "name":"2 of hearts",
+       "value":"2",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/2-of-hearts"
+    },
+    {
+       "name":"3 of hearts",
+       "value":"3",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/3-of-hearts"
+    },
+    {
+       "name":"4 of hearts",
+       "value":"4",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/4-of-hearts"
+    },
+    {
+       "name":"5 of hearts",
+       "value":"5",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/5-of-hearts"
+    },
+    {
+       "name":"6 of hearts",
+       "value":"6",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/6-of-hearts"
+    },
+    {
+       "name":"7 of hearts",
+       "value":"7",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/7-of-hearts"
+    },
+    {
+       "name":"8 of hearts",
+       "value":"8",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/8-of-hearts"
+    },
+    {
+       "name":"9 of hearts",
+       "value":"9",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/9-of-hearts"
+    },
+    {
+       "name":"10 of hearts",
+       "value":"10",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/10-of-hearts"
+    },
+    {
+       "name":"jack of hearts",
+       "value":"jack",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/jack-of-hearts"
+    },
+    {
+       "name":"queen of hearts",
+       "value":"queen",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/queen-of-hearts"
+    },
+    {
+       "name":"king of hearts",
+       "value":"king",
+       "suit":"hearts",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/king-of-hearts"
+    },
+    {
+       "name":"ace of diamonds",
+       "value":"ace",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/ace-of-diamonds"
+    },
+    {
+       "name":"2 of diamonds",
+       "value":"2",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/2-of-diamonds"
+    },
+    {
+       "name":"3 of diamonds",
+       "value":"3",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/3-of-diamonds"
+    },
+    {
+       "name":"4 of diamonds",
+       "value":"4",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/4-of-diamonds"
+    },
+    {
+       "name":"5 of diamonds",
+       "value":"5",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/5-of-diamonds"
+    },
+    {
+       "name":"6 of diamonds",
+       "value":"6",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/6-of-diamonds"
+    },
+    {
+       "name":"7 of diamonds",
+       "value":"7",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/7-of-diamonds"
+    },
+    {
+       "name":"8 of diamonds",
+       "value":"8",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/8-of-diamonds"
+    },
+    {
+       "name":"9 of diamonds",
+       "value":"9",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/9-of-diamonds"
+    },
+    {
+       "name":"10 of diamonds",
+       "value":"10",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/10-of-diamonds"
+    },
+    {
+       "name":"jack of diamonds",
+       "value":"jack",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/jack-of-diamonds"
+    },
+    {
+       "name":"queen of diamonds",
+       "value":"queen",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/queen-of-diamonds"
+    },
+    {
+       "name":"king of diamonds",
+       "value":"king",
+       "suit":"diamonds",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/king-of-diamonds"
+    },
+    {
+       "name":"ace of spades",
+       "value":"ace",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/ace-of-spades"
+    },
+    {
+       "name":"2 of spades",
+       "value":"2",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/2-of-spades"
+    },
+    {
+       "name":"3 of spades",
+       "value":"3",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/3-of-spades"
+    },
+    {
+       "name":"4 of spades",
+       "value":"4",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/4-of-spades"
+    },
+    {
+       "name":"5 of spades",
+       "value":"5",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/5-of-spades"
+    },
+    {
+       "name":"6 of spades",
+       "value":"6",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/6-of-spades"
+    },
+    {
+       "name":"7 of spades",
+       "value":"7",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/7-of-spades"
+    },
+    {
+       "name":"8 of spades",
+       "value":"8",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/8-of-spades"
+    },
+    {
+       "name":"9 of spades",
+       "value":"9",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/9-of-spades"
+    },
+    {
+       "name":"10 of spades",
+       "value":"10",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/10-of-spades"
+    },
+    {
+       "name":"jack of spades",
+       "value":"jack",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/jack-of-spades"
+    },
+    {
+       "name":"queen of spades",
+       "value":"queen",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/queen-of-spades"
+    },
+    {
+       "name":"king of spades",
+       "value":"king",
+       "suit":"spades",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/king-of-spades"
+    },
+    {
+       "name":"ace of clubs",
+       "value":"ace",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/ace-of-clubs"
+    },
+    {
+       "name":"2 of clubs",
+       "value":"2",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/2-of-clubs"
+    },
+    {
+       "name":"3 of clubs",
+       "value":"3",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/3-of-clubs"
+    },
+    {
+       "name":"4 of clubs",
+       "value":"4",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/4-of-clubs"
+    },
+    {
+       "name":"5 of clubs",
+       "value":"5",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/5-of-clubs"
+    },
+    {
+       "name":"6 of clubs",
+       "value":"6",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/6-of-clubs"
+    },
+    {
+       "name":"7 of clubs",
+       "value":"7",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/7-of-clubs"
+    },
+    {
+       "name":"8 of clubs",
+       "value":"8",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/8-of-clubs"
+    },
+    {
+       "name":"9 of clubs",
+       "value":"9",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/9-of-clubs"
+    },
+    {
+       "name":"10 of clubs",
+       "value":"10",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/10-of-clubs"
+    },
+    {
+       "name":"jack of clubs",
+       "value":"jack",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/jack-of-clubs"
+    },
+    {
+       "name":"queen of clubs",
+       "value":"queen",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/queen-of-clubs"
+    },
+    {
+       "name":"king of clubs",
+       "value":"king",
+       "suit":"clubs",
+       "imageURL":"https://indiealchemy.com/apis/playing-cards/cards/*/king-of-clubs"
+    }
+ ]
